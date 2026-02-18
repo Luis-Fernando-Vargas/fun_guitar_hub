@@ -1,0 +1,120 @@
+{
+  "about": {
+    "title": "About the Teacher",
+    "imageAlt": "Guitar teacher",
+    "paragraph1": "José Pereira is a guitarist, director, and teacher with over 30 years of experience. He has taught children, teenagers, adults, and seniors, helping each student learn at their own pace while enjoying the music they love.",
+    "paragraph2": "He offers lessons in English, French, and Spanish, and teaches a wide variety of styles: Latin American, pop, classical, jazz, and Catholic music. José also specializes in the Suzuki Method and score reading."
+  },
+
+  "services": {
+    "title": "Services",
+    "card1": {
+      "title": "Guitar Lessons",
+      "text": "Learn classical, pop, jazz, Latin American, and Catholic music. Personalized lessons for all ages."
+    },
+    "card2": {
+      "title": "Ukulele Lessons",
+      "text": "Fun and engaging ukulele lessons for beginners and intermediate students."
+    },
+    "card3": {
+      "title": "Levels & Methods",
+      "text": "Beginner, intermediate, and advanced levels. Suzuki Method, score reading, technique development."
+    }
+  },
+  
+  "pricing": {
+    "title": "Pricing",
+    "bookNow": "Book Now",
+
+    "plan1": {
+      "title": "Single Lesson",
+      "price": "$40",
+      "text": "1 hour lesson. Perfect for beginners or trial sessions."
+    },
+
+    "plan2": {
+      "title": "Monthly Pack",
+      "price": "$140",
+      "text": "4 lessons per month. Save $20. Most popular option."
+    },
+
+    "plan3": {
+      "title": "Premium Pack",
+      "price": "$260",
+      "text": "8 lessons per month. Save $60. Best value."
+    }
+  },
+  
+  "testimonials": {
+    "title": "Testimonials",
+
+    "t1": {
+      "text": "“José helped me learn guitar faster than I expected. Very patient and professional.”",
+      "author": "— Sarah, Ottawa"
+    },
+
+    "t2": {
+      "text": "“My son loves his lessons. José is amazing with kids and makes learning fun.”",
+      "author": "— Ana, Gatineau"
+    },
+
+    "t3": {
+      "text": "“Great teacher with deep musical knowledge. Highly recommended for all levels.”",
+      "author": "— Marc, Hull"
+    }
+  },
+  
+  "videos": {
+    "title": "Videos",
+
+    "v1": {
+      "title": "Warm-up Session",
+      "text": "A warm-up session demonstrating major scales and clean technique."
+    },
+
+    "v2": {
+      "title": "Nonsuch – Suzuki Book 3",
+      "text": "Performance of “Nonsuch,” a Renaissance piece included in Suzuki Guitar Book 3."
+    },
+
+    "v3": {
+      "title": "Magdalena – Guitar Performance",
+      "text": "A beautiful interpretation of “Magdalena” showcasing expressive guitar technique."
+    }
+  },
+
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch to book your first lesson or ask any questions.",
+    "whatsapp": "Contact via WhatsApp",
+    "location": "Ottawa – Gatineau Area"
+  },
+
+  "hero": {
+    "title": "Fun Guitar Hub",
+    "subtitle": "Guitar and ukulele lessons with a professional teacher. Learn fast, have fun, and play the music you love.",
+    "button1": "Book a Lesson",
+    "button2": "Watch Video",
+    "imageAlt": "Guitar teacher"
+  },
+  
+  "navbar": {
+    "logo": "Fun Guitar Hub",
+    "about": "About",
+    "services": "Services",
+    "pricing": "Pricing",
+    "testimonials": "Testimonials",
+    "videos": "Videos",
+    "contact": "Contact",
+    "cta": "Book a Lesson"
+  },
+  
+  "footer": {
+    "rights": "All rights reserved.",
+    "languages": "Lessons available in English, French, and Spanish.",
+    "about": "About",
+    "services": "Services",
+    "videos": "Videos",
+    "contact": "Contact"
+  }
+}

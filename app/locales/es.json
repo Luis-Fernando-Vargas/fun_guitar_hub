@@ -1,0 +1,122 @@
+{
+  "about": {
+    "title": "Sobre el Profesor",
+    "imageAlt": "Profesor de guitarra",
+    "paragraph1": "José Pereira es guitarrista, director y profesor con más de 30 años de experiencia. Ha enseñado a niños, adolescentes, adultos y personas mayores, ayudando a cada estudiante a aprender a su propio ritmo mientras disfrutan la música que aman.",
+    "paragraph2": "Ofrece clases en inglés, francés y español, y enseña una gran variedad de estilos: música latinoamericana, pop, clásica, jazz y música católica. José también se especializa en el Método Suzuki y la lectura musical."
+  },
+  
+  "services": {
+    "title": "Servicios",
+    "card1": {
+      "title": "Clases de Guitarra",
+      "text": "Aprende música clásica, pop, jazz, latinoamericana y católica. Clases personalizadas para todas las edades."
+    },
+    "card2": {
+      "title": "Clases de Ukelele",
+      "text": "Clases de ukelele divertidas y dinámicas para principiantes e intermedios."
+    },
+    "card3": {
+      "title": "Niveles y Métodos",
+      "text": "Niveles principiante, intermedio y avanzado. Método Suzuki, lectura musical y desarrollo técnico."
+    }
+  
+},
+
+  "pricing": {
+    "title": "Precios",
+    "bookNow": "Reservar",
+
+    "plan1": {
+      "title": "Clase Individual",
+      "price": "$40",
+      "text": "Clase de 1 hora. Ideal para principiantes o sesiones de prueba."
+    },
+
+    "plan2": {
+      "title": "Paquete Mensual",
+      "price": "$140",
+      "text": "4 clases al mes. Ahorra $20. La opción más popular."
+    },
+
+    "plan3": {
+      "title": "Paquete Premium",
+      "price": "$260",
+      "text": "8 clases al mes. Ahorra $60. La mejor oferta."
+    }
+  },
+  
+  "testimonials": {
+    "title": "Testimonios",
+
+    "t1": {
+      "text": "“José me ayudó a aprender guitarra más rápido de lo que esperaba. Muy paciente y profesional.”",
+      "author": "— Sarah, Ottawa"
+    },
+
+    "t2": {
+      "text": "“A mi hijo le encantan sus clases. José es increíble con los niños y hace que aprender sea divertido.”",
+      "author": "— Ana, Gatineau"
+    },
+
+    "t3": {
+      "text": "“Excelente profesor con un profundo conocimiento musical. Muy recomendado para todos los niveles.”",
+      "author": "— Marc, Hull"
+    }
+  
+},
+
+  "videos": {
+    "title": "Videos",
+
+    "v1": {
+      "title": "Sesión de Calentamiento",
+      "text": "Una sesión de calentamiento que demuestra escalas mayores y técnica limpia."
+    },
+
+    "v2": {
+      "title": "Nonsuch – Suzuki Libro 3",
+      "text": "Interpretación de “Nonsuch”, una pieza renacentista incluida en Suzuki Guitarra Libro 3."
+    },
+
+    "v3": {
+      "title": "Magdalena – Interpretación en Guitarra",
+      "text": "Una hermosa interpretación de “Magdalena” que muestra técnica expresiva."
+    }
+  },
+
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Ponte en contacto para reservar tu primera clase o hacer cualquier pregunta.",
+    "whatsapp": "Contactar por WhatsApp",
+    "location": "Área de Ottawa – Gatineau"
+  },
+
+  "hero": {
+    "title": "Fun Guitar Hub",
+    "subtitle": "Clases de guitarra y ukelele con un profesor profesional. Aprende rápido, diviértete y toca la música que amas.",
+    "button1": "Reservar Clase",
+    "button2": "Ver Video",
+    "imageAlt": "Profesor de guitarra"
+  },
+  
+  "navbar": {
+    "logo": "Fun Guitar Hub",
+    "about": "Sobre mí",
+    "services": "Servicios",
+    "pricing": "Precios",
+    "testimonials": "Testimonios",
+    "videos": "Videos",
+    "contact": "Contacto",
+    "cta": "Reservar Clase"
+  },
+
+  "footer": {
+    "rights": "Todos los derechos reservados.",
+    "languages": "Clases disponibles en inglés, francés y español.",
+    "about": "Sobre mí",
+    "services": "Servicios",
+    "videos": "Videos",
+    "contact": "Contacto"
+  }
+}

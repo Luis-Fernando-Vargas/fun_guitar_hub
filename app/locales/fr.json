@@ -1,0 +1,116 @@
+{
+  "about": {
+    "title": "À propos du professeur",
+    "imageAlt": "Professeur de guitare",
+    "paragraph1": "José Pereira est guitariste, directeur et professeur avec plus de 30 ans d'expérience. Il a enseigné aux enfants, adolescents, adultes et personnes âgées, aidant chaque élève à apprendre à son propre rythme tout en appréciant la musique qu'il aime.",
+    "paragraph2": "Il offre des cours en anglais, français et espagnol, et enseigne une grande variété de styles : musique latino-américaine, pop, classique, jazz et musique catholique. José est également spécialisé dans la méthode Suzuki et la lecture musicale."
+  },
+  "services": {
+    "title": "Services", 
+    "card1": { 
+      "title": "Cours de Guitare", 
+      "text": "Apprenez la musique classique, pop, jazz, latino-américaine et catholique. Cours personnalisés pour tous les âges." }, 
+    "card2": { 
+      "title": "Cours de Ukulélé",
+        "text": "Cours de ukulélé amusants et engageants pour débutants et niveaux intermédiaires." }, 
+    "card3": { 
+      "title": "Niveaux et Méthodes", 
+      "text": "Niveaux débutant, intermédiaire et avancé. Méthode Suzuki, lecture musicale et développement technique." } 
+  },
+  
+  "pricing": {
+    "title": "Tarifs",
+    "bookNow": "Réserver",
+
+    "plan1": {
+      "title": "Cours Individuel",
+      "price": "$40",
+      "text": "Cours d'une heure. Parfait pour débutants ou séances d'essai."
+    },
+
+    "plan2": {
+      "title": "Forfait Mensuel",
+      "price": "$140",
+      "text": "4 cours par mois. Économisez $20. L'option la plus populaire."
+    },
+
+    "plan3": {
+      "title": "Forfait Premium",
+      "price": "$260",
+      "text": "8 cours par mois. Économisez $60. Le meilleur rapport qualité-prix."
+    }
+  },
+  
+  "testimonials": {
+    "title": "Témoignages",
+
+    "t1": {
+      "text": "“José m’a aidée à apprendre la guitare plus vite que prévu. Très patient et professionnel.”",
+      "author": "— Sarah, Ottawa"
+    },
+
+    "t2": {
+      "text": "“Mon fils adore ses cours. José est fantastique avec les enfants et rend l’apprentissage amusant.”",
+      "author": "— Ana, Gatineau"
+    },
+
+    "t3": {
+      "text": "“Excellent professeur avec une grande connaissance musicale. Hautement recommandé pour tous les niveaux.”",
+      "author": "— Marc, Hull"
+    }
+  },
+
+  "videos": {
+    "title": "Vidéos",
+
+    "v1": {
+      "title": "Session d’Échauffement",
+      "text": "Une session d’échauffement démontrant les gammes majeures et une technique propre."
+    },
+
+    "v2": {
+      "title": "Nonsuch – Suzuki Livre 3",
+      "text": "Interprétation de “Nonsuch”, une pièce de la Renaissance incluse dans Suzuki Guitare Livre 3."
+    },
+
+    "v3": {
+      "title": "Magdalena – Performance à la Guitare",
+      "text": "Une belle interprétation de “Magdalena” mettant en valeur une technique expressive."
+    }
+  },
+
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Contactez-nous pour réserver votre premier cours ou poser vos questions.",
+    "whatsapp": "Contacter via WhatsApp",
+    "location": "Région Ottawa – Gatineau"
+  },
+
+  "hero": {
+    "title": "Fun Guitar Hub",
+    "subtitle": "Cours de guitare et ukulélé avec un professeur professionnel. Apprenez vite, amusez-vous et jouez la musique que vous aimez.",
+    "button1": "Réserver un Cours",
+    "button2": "Voir la Vidéo",
+    "imageAlt": "Professeur de guitare"
+  },
+  
+  "navbar": {
+    "logo": "Fun Guitar Hub",
+    "about": "À propos",
+    "services": "Services",
+    "pricing": "Tarifs",
+    "testimonials": "Témoignages",
+    "videos": "Vidéos",
+    "contact": "Contact",
+    "cta": "Réserver un Cours"
+  },
+
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "languages": "Cours disponibles en anglais, français et espagnol.",
+    "about": "À propos",
+    "services": "Services",
+    "videos": "Vidéos",
+    "contact": "Contact"
+  }
+}
