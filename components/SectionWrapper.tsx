@@ -3,7 +3,7 @@
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
 
-export default function SectionWrapper({ children }) {
+export default function SectionWrapper({ children }: { children: React.ReactNode }) {
   const ref = useRef(null);
   const isInView = useInView(ref, { margin: "-15% 0px -15% 0px" });
 
