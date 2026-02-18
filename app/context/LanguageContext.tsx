@@ -6,7 +6,8 @@ import es from "@/app/locales/es.json";
 import fr from "@/app/locales/fr.json";
 
 
-const languages = { en, es, fr };
+const languages: Record<string, any> = { en, es, fr };
+
 
 const LanguageContext = createContext({
   lang: "en",
