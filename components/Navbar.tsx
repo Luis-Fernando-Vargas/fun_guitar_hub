@@ -35,7 +35,7 @@ export default function Navbar() {
         </a>
 
         {/* Menu desktop */}
-        <div className="hidden sm:flex items-center gap-6 text-zinc-300">
+        <div className="hidden lg:flex items-center gap-6 text-zinc-300">
 
           <a href="#about" className="hover:text-white transition">{t("navbar.about")}</a>
           <a href="#services" className="hover:text-white transition">{t("navbar.services")}</a>
@@ -72,14 +72,14 @@ export default function Navbar() {
         {/* CTA desktop */}
         <a
           href="#contact"
-          className="hidden sm:block bg-yellow-500 hover:bg-yellow-600 text-black font-semibold py-2 px-4 rounded-full transition"
+          className="hidden lg:block bg-yellow-500 hover:bg-yellow-600 text-black font-semibold py-2 px-4 rounded-full transition"
         >
           {t("navbar.cta")}
         </a>
 
         {/* Botón hamburguesa */}
         <button
-          className="sm:hidden text-white text-3xl"
+          className="lg:hidden text-white text-3xl"
           onClick={() => setOpen(!open)}
         >
           {open ? "✕" : "☰"}
@@ -88,7 +88,7 @@ export default function Navbar() {
 
       {/* Menú móvil */}
       {open && (
-        <div className="sm:hidden bg-black/80 backdrop-blur-md border-t border-white/10 px-6 py-4 flex flex-col gap-4 text-lg">
+        <div className="lg:hidden bg-black/80 backdrop-blur-md border-t border-white/10 px-6 py-4 flex flex-col gap-4 text-lg">
 
           <a href="#about" onClick={() => setOpen(false)} className="text-zinc-300 hover:text-white">{t("navbar.about")}</a>
           <a href="#services" onClick={() => setOpen(false)} className="text-zinc-300 hover:text-white">{t("navbar.services")}</a>
