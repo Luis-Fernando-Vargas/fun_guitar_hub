@@ -110,14 +110,14 @@ export default function Navbar() {
           <div className="flex justify-center gap-6 mt-4 text-sm font-medium">
             <button
               onClick={() => { setLang("en"); setOpen(false); }}
-              className={`transition ${lang === "en" ? "text-yellow-400 font-bold" : "hover:text-yellow-400"}`}
+              className={`transition ${lang === "en" ? "text-yellow-400 font-bold" : "text-gray-300 hover:text-yellow-400"}`}
             >
               EN
             </button>
 
             <button
               onClick={() => { setLang("fr"); setOpen(false); }}
-              className={`transition ${lang === "fr" ? "text-yellow-400 font-bold" : "hover:text-yellow-400"}`}
+              className={`transition ${lang === "fr" ? "text-yellow-400 font-bold" : "text-gray-300 hover:text-yellow-400"}`}
             >
               FR
             </button>
