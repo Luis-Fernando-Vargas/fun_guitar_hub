@@ -124,7 +124,7 @@ export default function Navbar() {
 
             <button
               onClick={() => { setLang("es"); setOpen(false); }}
-              className={`transition ${lang === "es" ? "text-yellow-400 font-bold" : "hover:text-yellow-400"}`}
+              className={`transition ${lang === "es" ? "text-yellow-400 font-bold" : "text-gray-300 hover:text-yellow-400"}`}
             >
               ES
             </button>
